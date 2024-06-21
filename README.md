@@ -3,16 +3,9 @@
 
 1. [Objetivo da aula](#Objetivodaaula)
 2. [Concorrência e Sincronização](#ConcorrnciaeSincronizao)
-  2.1. [Concorrência](#Concorrncia)
-    2.1.1. [Principais problemas de concorrência:](#Principaisproblemasdeconcorrncia:)
-    2.2. [Sincronização](#Sincronizao)
-3. [Questão Proposta](#QuestoProposta)
-4. [Objetivo da Aplicação](#ObjetivodaAplicao)
-  4.1. [Problema da venda de ingressos](#Problemadavendadeingressos)
-5. [Implementação da Aplicação](#ImplementaodaAplicao)
-  5.1. [1. Código sem sincronização (para ilustrar os problemas)](#Cdigosemsincronizaoparailustrarosproblemas)
-  5.2. [2. Código com sincronização (solução com mutex)](#Cdigocomsincronizaosoluocommutex)
-
+4. [Questão Proposta](#QuestoProposta)
+5. [Objetivo da Aplicação](#ObjetivodaAplicao)
+6. [Implementação da Aplicação](#ImplementaodaAplicao)
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
